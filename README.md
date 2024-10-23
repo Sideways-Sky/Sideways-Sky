@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sideways-Sky
-- 👀 I’m interested in everything and anything!
-- 🌱 I’m currently learning Java Paper Plugin Dev
-- 💞️ I’m looking to collaborate on anything and everything especially on what I'm learning
+- 👀 I’m interested in the web and Minecraft!
+- 🌱 I’m currently learning whatever the heck I find cool
 - 📫 How to reach me:
   on Reddit: u/Sideways_sky 
   on Discord: Sideways sky#7531
