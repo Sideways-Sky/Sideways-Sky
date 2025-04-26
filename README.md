@@ -12,3 +12,7 @@ const sidewaysSky = {
 	fields: ["Fullstack Web", "Mobile", "Desktop", "Gamedev", "AI"],
 }
 ```
+
+[Modrinth](https://modrinth.com/user/SidewaysSky)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81E3UE6)
