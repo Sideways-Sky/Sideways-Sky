@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Sideways-Sky
-- 👀 I’m interested in the web and Minecraft!
-- 🌱 I’m currently learning whatever the heck I find cool
-- 📫 How to reach me:
-  on Reddit: u/Sideways_sky 
-  on Discord: Sideways sky#7531
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Sideways%20Sky&desc=Hobby%20Dev&descAlignY=70&section=header&reversal=false" alt="Sideways-Sky" width="100%">
+</p>
 
-<!---
-Sideways-Sky/Sideways-Sky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Hey there 👋</h3>
+<p align="center">Nice to meet you! Here is a little about me:</p>
+
+```ts
+const sidewaysSky = {
+	code: ["Java", "Javascript", "Python", "C#", "HTML", "CSS", "TypeScript", "Kotlin", "GDScript"],
+	tech: ["Nodejs", "Bun", "Deno", "React", "NextJS", "Svelte", "SolidJS", "Tanstack", "Gradle", "VSCode", "Intellij", "mongodb", "Docker", "Godot"],
+	fields: ["Fullstack Web", "Mobile", "Desktop", "Gamedev", "AI"],
+}
+```
